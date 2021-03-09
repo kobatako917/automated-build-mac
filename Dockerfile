@@ -1,2 +1,3 @@
 FORM dockersamples/static-site
-ENV AUTHOR="koba tako"
+ENV AUTHOR="kobatako917"
+
